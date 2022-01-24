@@ -1,19 +1,25 @@
-👋 Hi, I’m Sundaresan, Currently pursuing BE\EEE @KPRIET Coimbatore.
+<h1 align="center">Hi 👋, I'm Sundaresan A B</h1>
+<h3 align="center">I'm interested in learning Programming languages and working with those concepts to implement real-time projects.</h3>
 
-👀 I’m interested in learning Programming languages and working with those concepts to implement real-time projects.
+- 🌱 I’m currently learning **Javascript**
 
-🌱 I’m currently learning Java, Python.
+- 👯 I’m looking to collaborate on **Projects that are unique and interesting**
 
-💞️ I’m looking to collaborate on projects that are unique and intersting.
+- 📫 How to reach me **16sundar2003@gmail.com**
 
-🔗 Reach me via Linkedin https://www.linkedin.com/in/sundaresan-a-b-2609471a0
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/freeman_sundar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freeman_sundar_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sundaresan-a-b-2609471a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundaresan-a-b-2609471a0" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sundar316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sundar316" height="30" width="40" /></a>
+<a href="https://fb.com/sundar.mass.3363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sundar.mass.3363" height="30" width="40" /></a>
+<a href="https://instagram.com/__freeman_sundar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__freeman_sundar__" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/19ee0591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="19ee0591" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sundar316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sundar316" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sundaresan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sundaresan18" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/16sundar2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="16sundar2003" height="30" width="40" /></a>
+</p>
 
-📫 Reach me via Instagram https://www.instagram.com/__freeman_sundar__/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-👍 Reach me via Facebook https://www.facebook.com/sundar.mass.3363/
-
-🕊️ Reach me via Twitter https://twitter.com/freeman_sundar_
-
-🤖 Reach me via Reddit https://www.reddit.com/user/Sundar0316
-
-🥰 Reach me via Tumblr https://www.tumblr.com/blog/sundar-freeman
