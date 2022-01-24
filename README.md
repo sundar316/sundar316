@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/freeman_sundar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freeman_sundar_" height="30" width="40" /></a>
+<a href="https://twitter.com/freeman_sundar_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freeman_sundar_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sundaresan-a-b-2609471a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundaresan-a-b-2609471a0" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sundar316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sundar316" height="30" width="40" /></a>
 <a href="https://fb.com/sundar.mass.3363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sundar.mass.3363" height="30" width="40" /></a>
